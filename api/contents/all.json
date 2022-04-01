@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-04-01T08:41:29.865039Z",
+      "created": "2022-04-01T08:42:14.775119Z",
       "format": null,
-      "last_modified": "2022-04-01T08:40:15.790209Z",
+      "last_modified": "2022-04-01T08:40:55.040918Z",
       "mimetype": null,
       "name": "javascript.ipynb",
       "path": "javascript.ipynb",
@@ -14,21 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-01T08:41:29.865039Z",
+      "created": "2022-04-01T08:42:14.775119Z",
       "format": null,
-      "last_modified": "2022-04-01T08:40:15.790209Z",
-      "mimetype": null,
-      "name": "p5.ipynb",
-      "path": "p5.ipynb",
-      "size": 3717,
-      "type": "notebook",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-04-01T08:41:29.865039Z",
-      "format": null,
-      "last_modified": "2022-04-01T08:40:15.790209Z",
+      "last_modified": "2022-04-01T08:40:55.040918Z",
       "mimetype": null,
       "name": "vivo_en_little.geojson",
       "path": "vivo_en_little.geojson",
@@ -38,33 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-01T08:41:29.865039Z",
+      "created": "2022-04-01T08:42:14.775119Z",
       "format": null,
-      "last_modified": "2022-04-01T08:41:29.865039Z",
-      "mimetype": null,
-      "name": "data",
-      "path": "data",
-      "size": null,
-      "type": "directory",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-04-01T08:41:29.865039Z",
-      "format": null,
-      "last_modified": "2022-04-01T08:40:15.790209Z",
-      "mimetype": null,
-      "name": "python.ipynb",
-      "path": "python.ipynb",
-      "size": 12962,
-      "type": "notebook",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-04-01T08:41:29.865039Z",
-      "format": null,
-      "last_modified": "2022-04-01T08:41:28.077069Z",
+      "last_modified": "2022-04-01T08:42:13.167075Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -73,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-04-01T08:41:29.865039Z",
+  "created": "2022-04-01T08:42:14.775119Z",
   "format": "json",
-  "last_modified": "2022-04-01T08:41:29.865039Z",
+  "last_modified": "2022-04-01T08:42:14.775119Z",
   "mimetype": null,
   "name": "",
   "path": "",
