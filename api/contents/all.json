@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-04-01T08:57:00.861354Z",
+      "created": "2022-04-01T12:44:15.099243Z",
       "format": null,
-      "last_modified": "2022-04-01T08:55:33.756753Z",
+      "last_modified": "2022-04-01T12:43:01.574365Z",
+      "mimetype": null,
+      "name": "hispanicdb_vis.ipynb",
+      "path": "hispanicdb_vis.ipynb",
+      "size": 11531,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-01T12:44:15.103243Z",
+      "format": null,
+      "last_modified": "2022-04-01T12:43:01.574365Z",
       "mimetype": null,
       "name": "vivo_en_little.geojson",
       "path": "vivo_en_little.geojson",
@@ -14,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-01T08:57:00.857354Z",
+      "created": "2022-04-01T12:44:15.099243Z",
       "format": null,
-      "last_modified": "2022-04-01T08:56:58.745339Z",
+      "last_modified": "2022-04-01T12:44:12.319210Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -25,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-04-01T08:57:00.861354Z",
+  "created": "2022-04-01T12:44:15.103243Z",
   "format": "json",
-  "last_modified": "2022-04-01T08:57:00.861354Z",
+  "last_modified": "2022-04-01T12:44:15.103243Z",
   "mimetype": null,
   "name": "",
   "path": "",
